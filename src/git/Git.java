@@ -10,7 +10,7 @@ package git;
  * @author jesus
  */
 public class Git {
-
+int y;
     /**
      * @param args the command line arguments
      */
